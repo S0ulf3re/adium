@@ -14,7 +14,7 @@ Adium is a free and open source instant messaging application for [OS X](https:/
 * Support for a wide range of different Instant Messaging services (see the [full list](https://adium.im/help/pgs/Accounts-ListOfServices.html))
 * A delightful UI
   * [Tabbed chat windows](https://adium.im/help/pgs/Messaging-TabbedMessaging.html)
-* Mac OS X integration
+* macOS integration
 	* [Address Book integration](https://adium.im/help/pgs/AdvancedFeatures-AddressBookIntegration.html)
 	* [WebKit Message View](https://adium.im/help/pgs/Messaging-MessageView.html):  Theme your chat windows
 * [Combined Contacts](https://adium.im/help/pgs/ContactList-CombiningContacts.html): Merge your contacts so that each one represents a person, not an account
